@@ -1,6 +1,6 @@
-<br clear="both">
+## Ooi!!Eu sou a Erica Aisha
 
-<p align="center">Ooi!!Eu sou a Erica Aisha <br>Estudante de Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
+<p align="center">Estudante de Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
 
 ###
 
