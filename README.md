@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">Hello World!!<br>Estudante de  Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
+<p align="center">Hello World!!<br>Estudante de Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
 
 ###
 
