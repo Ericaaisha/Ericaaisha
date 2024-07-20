@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Erica Aisha">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Erica%20Aisha&count=3&unique=false" alt="Spotify recently played"  />![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i5wrjubhg5o4uodyu25jbmzgy)
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Erica%20Aisha&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
