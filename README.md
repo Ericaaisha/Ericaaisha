@@ -1,6 +1,4 @@
-## Ooi!!Eu sou a Erica Aisha
-
-<p align="center">Estudante de Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
+<p align="center">Ooi!!<br>Estudante de  Engenharia de Software🎓🖥️.<br><br>Atualmente estou aprendendo JAVA🍵.</p>
 
 ###
 
