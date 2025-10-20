@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Estudante de Engenharia de Software.<br>• Atualmente estou aprendendo Java.<br>• Em constante atualização no meio tecnológico.<br>• PS Eu amo um cafezinho. ♡</p>
+<p align="left">• Estudante de Engenharia de Software.<br>• Atualmente estou aprendendo Java.<br>• Em constante atualização no meio tecnológico.<br>• PS -> Eu amo um cafezinho ♡</p>
 
 ###
 
