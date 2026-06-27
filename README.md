@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Estudante de Engenharia de Software.<br>• Atualmente estou aprendendo Java.<br>• Em constante atualização no meio tecnológico.<br>
+<p align="left">• 🎓 Software Engineering Student.<br>• ☕ Currently learning Java<br>•🚀 Passionate about technology and continuous learning<br>
 
 ###
 
